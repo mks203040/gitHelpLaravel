@@ -1,5 +1,9 @@
-new project laravel: 
-
-
-
 transfer project to hosting and config it: 
+
+
+need: 
+- php 7 hosting config; 
+
+transfer db file to phpMyAdmin: 
+- add
+- change config files db connect...
